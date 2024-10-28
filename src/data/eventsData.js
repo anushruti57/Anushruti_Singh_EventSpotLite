@@ -1,21 +1,19 @@
-// src/data/eventsData.js
 export const eventsData = [
-    { id: 1, name: 'Music Concert', date: '2024-11-10', location: 'City Park' },
-    { id: 2, name: 'Art Exhibition', date: '2024-11-12', location: 'Downtown Gallery' },
-    { id: 3, name: 'Food Festival', date: '2024-11-15', location: 'Riverside Pavilion' },
-    { id: 4, name: 'Tech Conference', date: '2024-11-20', location: 'Tech Hub Convention Center' },
-    { id: 5, name: 'Stand-up Comedy Night', date: '2024-11-25', location: 'Laugh Lounge' },
-    { id: 6, name: 'Outdoor Movie Screening', date: '2024-11-28', location: 'Central Park' },
-    { id: 7, name: 'Charity Run', date: '2024-12-01', location: 'Lakefront Trail' },
-    { id: 8, name: 'Craft Fair', date: '2024-12-05', location: 'Community Center' },
-    { id: 9, name: 'Wine Tasting', date: '2024-12-10', location: 'Vineyard Hall' },
-    { id: 10, name: 'Book Reading', date: '2024-12-12', location: 'Public Library' },
-    { id: 11, name: 'Fashion Show', date: '2024-12-15', location: 'Downtown Arena' },
-    { id: 12, name: 'Dance Workshop', date: '2024-12-18', location: 'Studio 21' },
-    { id: 13, name: 'Film Festival', date: '2025-01-05', location: 'City Theater' },
-    { id: 14, name: 'Culinary Workshop', date: '2025-01-10', location: 'Gourmet Kitchen School' },
-    { id: 15, name: 'Yoga Retreat', date: '2025-01-15', location: 'Peaceful Pines' },
-    { id: 16, name: 'New Year’s Gala', date: '2024-12-31', location: 'Grand Ballroom' },
-    // Add more event objects here
-  ];
+  { id: 1, name: 'Diwali Festival', date: '2024-11-12', location: 'Jaipur City Palace' },
+  { id: 2, name: 'Holi Celebration', date: '2025-03-06', location: 'Vrindavan' },
+  { id: 3, name: 'Navratri Garba Night', date: '2024-10-10', location: 'Ahmedabad' },
+  { id: 4, name: 'Durga Puja', date: '2024-10-19', location: 'Kolkata' },
+  { id: 5, name: 'Goa Carnival', date: '2025-02-14', location: 'Panaji, Goa' },
+  { id: 6, name: 'Pongal Festival', date: '2025-01-14', location: 'Chennai' },
+  { id: 7, name: 'Pushkar Camel Fair', date: '2024-11-15', location: 'Pushkar, Rajasthan' },
+  { id: 8, name: 'Republic Day Parade', date: '2025-01-26', location: 'Rajpath, New Delhi' },
+  { id: 9, name: 'Dev Deepawali', date: '2024-11-26', location: 'Varanasi' },  // Added Dev Deepawali
+  { id: 10, name: 'Onam Festival', date: '2024-08-20', location: 'Kochi, Kerala' },
+  { id: 11, name: 'Kumbh Mela', date: '2025-04-14', location: 'Haridwar' },
+  { id: 12, name: 'Lohri Festival', date: '2025-01-13', location: 'Amritsar' },
+  { id: 13, name: 'Rath Yatra', date: '2025-07-04', location: 'Puri, Odisha' },
+  { id: 14, name: 'Ganesh Chaturthi', date: '2024-09-09', location: 'Mumbai' },
+  { id: 15, name: 'Bihu Festival', date: '2025-01-15', location: 'Guwahati, Assam' },
   
+  
+];
