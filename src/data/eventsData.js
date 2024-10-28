@@ -7,7 +7,7 @@ export const eventsData = [
   { id: 6, name: 'Pongal Festival', date: '2025-01-14', location: 'Chennai' },
   { id: 7, name: 'Pushkar Camel Fair', date: '2024-11-15', location: 'Pushkar, Rajasthan' },
   { id: 8, name: 'Republic Day Parade', date: '2025-01-26', location: 'Rajpath, New Delhi' },
-  { id: 9, name: 'Dev Deepawali', date: '2024-11-26', location: 'Varanasi' },  // Added Dev Deepawali
+  { id: 9, name: 'Dev Deepawali', date: '2024-11-26', location: 'Varanasi' }, 
   { id: 10, name: 'Onam Festival', date: '2024-08-20', location: 'Kochi, Kerala' },
   { id: 11, name: 'Kumbh Mela', date: '2025-04-14', location: 'Haridwar' },
   { id: 12, name: 'Lohri Festival', date: '2025-01-13', location: 'Amritsar' },

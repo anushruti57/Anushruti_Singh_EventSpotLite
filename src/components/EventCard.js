@@ -13,6 +13,3 @@ function EventCard({ event, onClick }) {
 
 export default EventCard;
 
-// const standartFunction = () => {
-//     // here we go
-// }

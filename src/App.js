@@ -8,8 +8,8 @@ function App() {
 
   return (
     <div className="App">
-      <Navbar onSearch={setSearchTerm} /> {/* Pass setSearchTerm as onSearch */}
-      <EventList searchTerm={searchTerm} /> {/* Pass searchTerm to EventList */}
+      <Navbar onSearch={setSearchTerm} /> 
+      <EventList searchTerm={searchTerm} /> 
     </div>
   );
 }

@@ -1,4 +1,3 @@
-// src/components/EventList.js
 import React, { useState } from 'react';
 import EventCard from './EventCard';
 import EventModal from './EventModal';
@@ -16,7 +15,7 @@ function EventList({ searchTerm }) {
     setSelectedEvent(null);
   };
 
-  // Filter events based on the search term (case-insensitive)
+  
   const filteredEvents = eventsData.filter((event) =>
     event.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
     event.location.toLowerCase().includes(searchTerm.toLowerCase())

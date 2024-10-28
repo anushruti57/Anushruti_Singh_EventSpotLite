@@ -3,7 +3,7 @@ import './Navbar.css';
 
 function Navbar({ onSearch }) {
   const handleSearch = (e) => {
-    onSearch(e.target.value); // Pass the search input to the parent component
+    onSearch(e.target.value);
   };
 
   return (
@@ -12,7 +12,7 @@ function Navbar({ onSearch }) {
       <input
         type="text"
         placeholder="Search events..."
-        onChange={handleSearch} // Update search term on input change
+        onChange={handleSearch} 
       />
     </nav>
   );
